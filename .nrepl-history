@@ -18,3 +18,4 @@
 (require 'jogo-thread.core.desktop-launcher)
 (get-env :source-path)
 (get-env :source-paths)
+(-main)
